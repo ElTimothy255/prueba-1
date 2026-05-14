@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Impacto de la Localía - Visualización</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+    <!-- ── Sidebar izquierda (Real Madrid) ─────────────────────────────── -->
+    <div class="sidebar sidebar-left" id="sidebar-rm">
+        <div class="sidebar-header sidebar-header-rm">
+            <img src="img/logo_rm.png" alt="Real Madrid" class="sidebar-logo">
+            <h3 id="panel-title-rm">Real Madrid</h3>
+            <button class="close-btn" id="close-btn-rm">✕</button>
+        </div>
+        <div class="sidebar-content">
+            <!-- Stats de goles -->
+            <div class="stats-card stats-card-rm" id="stats-container-rm">
+                <p>Haz clic en un punto del gráfico para ver el detalle.</p>
+            </div>
+
+            <!-- Gráfico de barras: goles local vs visita -->
+            <p class="chart-label chart-label-rm">Goles: Local vs Visita</p>
+            <div class="chart-container-small">
+                <canvas id="detailChartRM"></canvas>
+            </div>
+
+            <!-- Gráfico de consistencia ofensiva -->
+            <p class="chart-label chart-label-rm">Consistencia Ofensiva</p>
+            <div class="chart-container-consistencia">
+                <canvas id="consistenciaChartRM"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- ── Sidebar derecha (FC Barcelona) ──────────────────────────────── -->
+    <div class="sidebar sidebar-right" id="sidebar-fcb">
+        <div class="sidebar-header sidebar-header-fcb">
+            <img src="img/logo_fcb.png" alt="FC Barcelona" class="sidebar-logo">
+            <h3 id="panel-title-fcb">FC Barcelona</h3>
+            <button class="close-btn" id="close-btn-fcb">✕</button>
+        </div>
+        <div class="sidebar-content">
+            <!-- Stats de goles -->
+            <div class="stats-card stats-card-fcb" id="stats-container-fcb">
+                <p>Haz clic en un punto del gráfico para ver el detalle.</p>
+            </div>
+
+            <!-- Gráfico de barras: goles local vs visita -->
+            <p class="chart-label chart-label-fcb">Goles: Local vs Visita</p>
+            <div class="chart-container-small">
+                <canvas id="detailChartFCB"></canvas>
+            </div>
+
+            <!-- Gráfico de consistencia ofensiva -->
+            <p class="chart-label chart-label-fcb">Consistencia Ofensiva</p>
+            <div class="chart-container-consistencia">
+                <canvas id="consistenciaChartFCB"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- ── Contenido principal ──────────────────────────────────────────── -->
+    <div class="main-content" id="main-content">
+        <header>
+            <div class="header-logos">
+                <img src="img/logo_rm.png" alt="Real Madrid" class="header-logo">
+                <div class="header-text">
+                    <h1>Impacto de la Localía</h1>
+                    <p>Real Madrid vs FC Barcelona · LaLiga 2016–2022</p>
+                    <p>Haz clic en cualquier punto del gráfico para ver el detalle de esa temporada.</p>
+                </div>
+                <img src="img/logo_fcb.png" alt="FC Barcelona" class="header-logo">
+            </div>
+        </header>
+
+        <div class="chart-box">
+            <div class="canvas-wrapper">
+                <canvas id="chartCombinado"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="js/app.js" defer></script>
+
+</body>
+</html>

@@ -1,0 +1,245 @@
+/* ─── Variables ──────────────────────────────────────────────────────────── */
+:root {
+    --bg-color:      #f4f7f6;
+    --text-color:    #333;
+
+    /* Real Madrid */
+    --rm-local:      #005A9F;
+    --rm-visita:     #00a8ff;
+
+    /* FC Barcelona */
+    --fcb-local:     #A50044;
+    --fcb-visita:    #004D98;
+
+    --sidebar-bg:    #ffffff;
+    --sidebar-width: 340px;
+    --shadow:        0 4px 20px rgba(0,0,0,0.12);
+    --transition:    0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    overflow-x: hidden;
+}
+
+/* ─── Contenido principal ────────────────────────────────────────────────── */
+.main-content {
+    transition: margin-left var(--transition), margin-right var(--transition);
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* ─── Header ─────────────────────────────────────────────────────────────── */
+header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.header-logos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+.header-logo {
+    width: 64px;
+    height: 64px;
+    object-fit: contain;
+    flex-shrink: 0;
+    /* Sin filtro: los logos del header se muestran con sus colores originales */
+}
+
+.header-text h1 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #222;
+}
+
+.header-text p {
+    color: #666;
+    font-size: 0.9rem;
+    margin-top: 0.35rem;
+}
+
+/* ─── Gráfico combinado ──────────────────────────────────────────────────── */
+.chart-box {
+    background: #fff;
+    padding: 1.5rem 1.5rem 1.5rem 1rem;
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+}
+
+.canvas-wrapper {
+    position: relative;
+    height: 380px;
+    width: 100%;
+}
+
+/* ─── Sidebars base ──────────────────────────────────────────────────────── */
+.sidebar {
+    position: fixed;
+    top: 0;
+    width: var(--sidebar-width);
+    height: 100vh;
+    background: var(--sidebar-bg);
+    box-shadow: var(--shadow);
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    transition: left var(--transition), right var(--transition);
+}
+
+/* Sidebar izquierda — Real Madrid */
+.sidebar-left {
+    left: calc(var(--sidebar-width) * -1);
+    right: auto;
+}
+.sidebar-left.active {
+    left: 0;
+}
+
+/* Sidebar derecha — FC Barcelona */
+.sidebar-right {
+    right: calc(var(--sidebar-width) * -1);
+    left: auto;
+}
+.sidebar-right.active {
+    right: 0;
+}
+
+/* ─── Cabecera del sidebar ───────────────────────────────────────────────── */
+.sidebar-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1.25rem 1.5rem;
+    color: white;
+    flex-shrink: 0;
+}
+
+.sidebar-header-rm  { background: var(--rm-local); }
+.sidebar-header-fcb { background: var(--fcb-local); }
+
+/*
+ * FIX del logo en el sidebar:
+ * En vez de invertir a blanco (que dejaba visible el fondo blanco del escudo),
+ * usamos drop-shadow para crear un contorno blanco y mantenemos el logo original.
+ * Si prefieres la versión puramente blanca, usa: filter: brightness(0) invert(1);
+ * pero los logos deben ser PNG con fondo transparente para que funcione bien.
+ */
+.sidebar-logo {
+    width: 36px;
+    height: 36px;
+    object-fit: contain;
+    flex-shrink: 0;
+    filter: drop-shadow(0 0 2px rgba(255,255,255,0.8));
+    /* Si los logos tienen fondo blanco/opaco, quitamos el filtro de inversión
+       y dejamos los colores originales con solo un sutil drop-shadow */
+}
+
+.sidebar-header h3 {
+    flex: 1;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.close-btn {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.4rem;
+    cursor: pointer;
+    transition: transform 0.2s;
+    line-height: 1;
+    padding: 0;
+    margin-left: auto;
+}
+.close-btn:hover { transform: scale(1.15); }
+
+/* ─── Contenido del sidebar ──────────────────────────────────────────────── */
+.sidebar-content {
+    padding: 1.25rem;
+    overflow-y: auto;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.stats-card {
+    padding: 1rem;
+    border-radius: 8px;
+    background: #f8f9fa;
+    flex-shrink: 0;
+}
+
+.stats-card-rm  { border-left: 4px solid var(--rm-local); }
+.stats-card-fcb { border-left: 4px solid var(--fcb-local); }
+
+.stats-card p {
+    margin-bottom: 0.7rem;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: #444;
+}
+.stats-card p:last-child { margin-bottom: 0; }
+
+.stats-card-rm  strong { color: var(--rm-local); }
+.stats-card-fcb strong { color: var(--fcb-local); }
+
+/* ─── Etiquetas de sección dentro del sidebar ───────────────────────────── */
+.chart-label {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: -0.25rem;
+    flex-shrink: 0;
+}
+
+.chart-label-rm  { color: var(--rm-local); }
+.chart-label-fcb { color: var(--fcb-local); }
+
+/* ─── Gráfico de barras (local vs visita) ───────────────────────────────── */
+.chart-container-small {
+    position: relative;
+    height: 180px;
+    width: 100%;
+    flex-shrink: 0;
+}
+
+/* ─── Gráfico de consistencia ofensiva ──────────────────────────────────── */
+.chart-container-consistencia {
+    position: relative;
+    height: 200px;
+    min-height: 200px;   /* garantiza que Chart.js recibe dimensiones reales */
+    width: 100%;
+    flex-shrink: 0;
+}
+
+/* Asegurar que el canvas dentro ocupa todo el contenedor */
+.chart-container-consistencia canvas {
+    display: block;
+}
+
+/* ─── Responsive ─────────────────────────────────────────────────────────── */
+@media (max-width: 768px) {
+    .canvas-wrapper { height: 260px; }
+    .sidebar { width: 100%; }
+    .sidebar-left  { left: -100%; }
+    .sidebar-right { right: -100%; }
+    .header-logo { width: 44px; height: 44px; }
+    .header-text h1 { font-size: 1.2rem; }
+    .chart-container-small { height: 150px; }
+    .chart-container-consistencia { height: 170px; }
+}

@@ -1,0 +1,1950 @@
+{
+  "realMadrid": [
+    {
+      "temporada": "16-17",
+      "local": 48,
+      "visita": 58,
+      "partidos": 19,
+      "promedioLocal": 2.53,
+      "promedioVisita": 3.05,
+      "partidosDetalle": [
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 6
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 6
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        }
+      ]
+    },
+    {
+      "temporada": "17-18",
+      "local": 54,
+      "visita": 40,
+      "partidos": 19,
+      "promedioLocal": 2.84,
+      "promedioVisita": 2.11,
+      "partidosDetalle": [
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 7
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 6
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 6
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 5
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        }
+      ]
+    },
+    {
+      "temporada": "18-19",
+      "local": 32,
+      "visita": 31,
+      "partidos": 19,
+      "promedioLocal": 1.68,
+      "promedioVisita": 1.63,
+      "partidosDetalle": [
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        }
+      ]
+    },
+    {
+      "temporada": "19-20",
+      "local": 40,
+      "visita": 30,
+      "partidos": 19,
+      "promedioLocal": 2.11,
+      "promedioVisita": 1.58,
+      "partidosDetalle": [
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        }
+      ]
+    },
+    {
+      "temporada": "20-21",
+      "local": 33,
+      "visita": 34,
+      "partidos": 19,
+      "promedioLocal": 1.74,
+      "promedioVisita": 1.79,
+      "partidosDetalle": [
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        }
+      ]
+    },
+    {
+      "temporada": "21-22",
+      "local": 44,
+      "visita": 36,
+      "partidos": 19,
+      "promedioLocal": 2.32,
+      "promedioVisita": 1.89,
+      "partidosDetalle": [
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 6
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 6
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        }
+      ]
+    }
+  ],
+  "barcelona": [
+    {
+      "temporada": "16-17",
+      "local": 64,
+      "visita": 52,
+      "partidos": 19,
+      "promedioLocal": 3.37,
+      "promedioVisita": 2.74,
+      "partidosDetalle": [
+        {
+          "condicion": "local",
+          "goles": 6
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 6
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 7
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 5
+        },
+        {
+          "condicion": "visita",
+          "goles": 5
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 6
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        }
+      ]
+    },
+    {
+      "temporada": "17-18",
+      "local": 53,
+      "visita": 46,
+      "partidos": 19,
+      "promedioLocal": 2.79,
+      "promedioVisita": 2.42,
+      "partidosDetalle": [
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 6
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 6
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 5
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        }
+      ]
+    },
+    {
+      "temporada": "18-19",
+      "local": 51,
+      "visita": 39,
+      "partidos": 19,
+      "promedioLocal": 2.68,
+      "promedioVisita": 2.05,
+      "partidosDetalle": [
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 8
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 5
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        }
+      ]
+    },
+    {
+      "temporada": "19-20",
+      "local": 52,
+      "visita": 34,
+      "partidos": 19,
+      "promedioLocal": 2.74,
+      "promedioVisita": 1.79,
+      "partidosDetalle": [
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 5
+        }
+      ]
+    },
+    {
+      "temporada": "20-21",
+      "local": 44,
+      "visita": 41,
+      "partidos": 19,
+      "promedioLocal": 2.32,
+      "promedioVisita": 2.16,
+      "partidosDetalle": [
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 5
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 6
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        }
+      ]
+    },
+    {
+      "temporada": "21-22",
+      "local": 37,
+      "visita": 31,
+      "partidos": 19,
+      "promedioLocal": 1.95,
+      "promedioVisita": 1.63,
+      "partidosDetalle": [
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 4
+        },
+        {
+          "condicion": "local",
+          "goles": 1
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "local",
+          "goles": 2
+        },
+        {
+          "condicion": "local",
+          "goles": 3
+        },
+        {
+          "condicion": "local",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 4
+        },
+        {
+          "condicion": "visita",
+          "goles": 3
+        },
+        {
+          "condicion": "visita",
+          "goles": 1
+        },
+        {
+          "condicion": "visita",
+          "goles": 2
+        },
+        {
+          "condicion": "visita",
+          "goles": 0
+        }
+      ]
+    }
+  ]
+}
