@@ -17,12 +17,12 @@ const COLORES = {
 // ─── Configuración de Sonidos ────────────────────────────────────────────────
 const sonidosLocalia = {
     realMadrid: {
-        weno: new Audio('audio/formidable.mp3'),
+        weno: new Audio('audio/rm_weno.mp3'),
         meh: new Audio('audio/rm_meh.mp3')
     },
     barcelona: {
-        weno: new Audio('audio/gol-messi-vs-getafe-narrat-per-puyal-full-hd-1080p-audiotrimmer-1.mp3'),
-        meh: new Audio('audio/som-apito-do-juiz-mp3cut.mp3')
+        weno: new Audio('messi.mp3'),
+        meh: new Audio('fcb_meh.mp3')
     }
 };
 
